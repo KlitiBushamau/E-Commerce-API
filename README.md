@@ -8,6 +8,7 @@ E-Commerce API with Express ang MongoDB
 * Navigate to the directory on your computer
 * Run `npm install`
 * Run `npm start`
+* Create .env file and Add MONGO_URL, JWT_SECRET, JWT_LIFETIME
 
 ## Dependencies:
 * BCrypt
